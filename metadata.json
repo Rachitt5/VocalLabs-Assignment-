@@ -1,0 +1,6 @@
+{
+  "name": "VocalLabs AI Studio",
+  "description": "Personalized AI Voice Agent Builder and real-time interactive testing simulation clones.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
